@@ -1,5 +1,5 @@
-#  Salary Management System
-I have created a salary management system in which there is Employee details, Employee Payslips in Organisation
+# Salary Management System
+The Salary Management System deals with the financial aspects of employee’s salary, allowances, deductions, gross pay, net pay etc. and generation of pay-slips for a specific period. The outstanding benefit of Salary Management System is its easy implementation. Employee Salary management system helps you easily manage monthly salary & define slabs for CTC. The data is the most important thing in any organization and so it must be protected by malicious intended users. Besides these, Salary management also allows users to print the salary slip for a particular employee.
 
 # Technology Used
 -> JAVA
@@ -8,8 +8,8 @@ I have created a salary management system in which there is Employee details, Em
 -> MySQL
 
 # Console Based Application
--> User Access
--> Admin Login , Employee Login
+-> User Access.
+-> Admin Login , Employee Login.
 -> As an admin , we can view all the Employee details.
 -> As an Employee , we can view salary slips.
 
